@@ -1,4 +1,4 @@
-###Stage Zero - HNG Task (Static Website Deployment)
+### Stage Zero - HNG Task (Static Website Deployment)
 
 Deploying a static website on Azure using NGINX involves similar steps to those for AWS. Below is a detailed guide I used in order to help you set up your static website on Azure:
 
@@ -129,9 +129,9 @@ Deploying a static website on Azure using NGINX involves similar steps to those 
 Here’s a simple example of what your `index.html` could look like:
 
 ```html
-xheck repo to the see the code
+check repo to the see the code
 ```
 
 By following these steps, you should be able to successfully deploy your static website on an Azure VM using NGINX, and meet all the requirements of the task.
 
-###The END.
+### The END.
